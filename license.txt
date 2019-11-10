@@ -174,5 +174,7 @@
       of your accepting any such warranty or additional liability.
 
 experimenting on automation
-adding again one line 
+adding again one line
+testing for manula deployment
+ 
 	END OF TERMS AND CONDITIONS
